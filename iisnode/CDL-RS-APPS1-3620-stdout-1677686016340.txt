@@ -1,0 +1,2 @@
+info  - Loaded env from D:\CDL\ReportPortalClient\.env
+> Ready on http://localhost:\\.\pipe\3d6c8c97-5fe5-4425-b77c-e1af53be02ba
